@@ -1,1 +1,1 @@
-# A plateform where developers can connect 
+# A plateform where developers can connect  (WIP)
